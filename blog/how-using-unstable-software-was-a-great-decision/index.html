@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>How using unstable software was a great decision</title>
+<meta name="description" content="Software development &amp; web design! With a side of coffee roasting, cycling, and photography.">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="all,follow">
+<meta name="googlebot" content="index,follow,snippet,archive">
+<link rel="stylesheet" href="http://www.a7y.xyz/css/bootstrap.min.css">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic">
+<link rel="stylesheet" href="http://www.a7y.xyz/css/font-awesome.min.css">
+<link rel="stylesheet" href="http://www.a7y.xyz/css/owl.carousel.css">
+<link rel="stylesheet" href="http://www.a7y.xyz/css/owl.theme.css">
+
+
+  <link href="http://www.a7y.xyz/css/style.blue.css" rel="stylesheet" id="theme-stylesheet">
+
+ 
+
+  
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  
+
+
+<link href="http://www.a7y.xyz/css/custom.css" rel="stylesheet">
+<link rel="shortcut icon" href="http://www.a7y.xyz/img/favicon.png">
+
+
+</head>
+<body>
+  <div id="all">
+      <div class="container-fluid">
+          <div class="row row-offcanvas row-offcanvas-left">
+              <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
+  <div class="sidebar-content">
+    <h1 class="sidebar-heading"><a href="http://www.a7y.xyz/">A7Y.xyz</a></h1>
+    
+      <p class="sidebar-p">I do software development & web design! With a side of coffee roasting, cycling, and photography.</p>
+    
+      <p class="sidebar-p">Based in Oklahoma City, OK.</p>
+    
+    <ul class="sidebar-menu">
+      
+        <li><a href="http://www.a7y.xyz/">Home</a></li>
+      
+        <li><a href="http://www.a7y.xyz/resume.pdf">Résumé</a></li>
+      
+        <li><a href="http://www.a7y.xyz/portfolio/">Portfolio</a></li>
+      
+        <li><a href="http://www.a7y.xyz/blog/">Blog</a></li>
+      
+    </ul>
+    <p class="social">
+  
+  <a href="mailto:alex@a7y.xyz" data-animate-hover="pulse" class="email">
+    <i class="fa fa-envelope"></i>
+  </a>
+  
+  
+  <a href="https://www.github.com/a7y" data-animate-hover="pulse" class="external">
+    <i class="fa fa-github"></i>
+  </a>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</p>
+
+
+    <div class="copyright">
+      <p class="credit">
+        
+          &copy; 2018 A7Y.xyz
+        
+        
+      </p>
+    </div>
+  </div>
+</div>
+
+              
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  <div class="small-navbar visible-xs">
+  <button type="button" data-toggle="offcanvas" class="btn btn-ghost pull-left"> <i class="fa fa-align-left"> </i>Menu</button>
+  <h1 class="small-navbar-heading"><a href="http://www.a7y.xyz/">A7Y.xyz</a></h1>
+</div>
+
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="content-column-content">
+         <h1>How using unstable software was a great decision</h1>
+         <p>I use <a href="http://laravel.com/">Laravel</a>. It is an extremely popular PHP framework, and it has the definite right to be. Laravel is simply a pleasure to work with.</p>
+
+<p>About 4 months ago I started planning a new project. I had to make the important decision of whether or not to use the unstable, not-even-beta Laravel 5, or the tried and true Laravel 4. I ended up choosing 5 for a couple of reasons.</p>
+
+<ul>
+<li>Its release date (4 months ago) was set for December. I was sure I wouldn&rsquo;t have finished development by then anyway.</li>
+<li>Even the 5 or 6 new features shown back then were extremely attractive. Method injection, request classes, and the new directory structure were some of the few. <em>n.b. present-day Laravel 5 has a much larger list of stellar improvements.</em></li>
+<li>I am a sucker for bleeding edge software. Just consult my loyalty to Arch Linux.</li>
+</ul>
+
+<p>I realized that the absolute worst that could happen was an increased requirement of <em>time</em>. A serious liability for teams and corporations, but thankfully, a non-issue for me. I&rsquo;m working alone, and hence, set my own pace and deadlines.</p>
+
+<p>Going for Laravel 5 was seriously a fantastic decision. I cannot express the amount of progress I&rsquo;ve made in regard to my code and the way I conceptualize projects. I would go so far as to say that every pitfall associated with alpha-software resulted in either the improvement or learning of a skill.</p>
+
+<p><strong>Documentation</strong> was virtually non-existent. If I didn&rsquo;t know how to use a feature, the only option I had was to read through Taylor Otwell&rsquo;s code. This went to great lengths in improving my understanding of a number of design patterns, and of course, the Laravel internals.</p>
+
+<p>A <strong>changelog</strong> was also absent. A nice-looking markdown document with functionality changes and improvements? Nope. Everyone got the commit list and file diffs. If something broke that worked previous to a <em>&gt; composer update</em>, I went to GitHub and looked at what Taylor pushed.</p>
+
+<p>Constant <strong>additions, reversions, and revisions</strong> kept me on my feet, or rather, in my chair. Especially with the changes to convention, it was a rare week when I hadn&rsquo;t <a href="https://twitter.com/alextyrey/status/557281374131208192">refactored anything</a>. I can definitely understand why people would loathe this, but I&rsquo;d be lying through my teeth if I said it didn&rsquo;t result in the betterment of my code.</p>
+
+<p><strong>Bugs</strong> in the framework? I either fixed them myself or waited for someone else to do so. Doing the former, I can truthfully say that a project with 14k+ stars on GitHub incorporates code I wrote. Although insignificant when compared to others&rsquo; contributions, it&rsquo;s a great feeling regardless.</p>
+
+<p>So overall, I firmly believe I made the right choice. I maintain the notion that unstable software is horrible for production. However, it now carries the exception that it&rsquo;s incredible for personal-growth.</p>
+
+<p>Now if you&rsquo;ll excuse me, <a href="https://github.com/laravel/framework/pull/6941">I need to go make my code PSR-2 compliant</a>.</p>
+
+         
+      </div>
+    </div>
+  </div>
+</div>
+
+          </div>
+      </div>
+  </div>
+  <script src="http://www.a7y.xyz/js/jquery.min.js"></script>
+<script src="http://www.a7y.xyz/js/bootstrap.min.js"></script>
+<script src="http://www.a7y.xyz/js/jquery.cookie.js"> </script>
+<script src="http://www.a7y.xyz/js/ekko-lightbox.js"></script>
+<script src="http://www.a7y.xyz/js/jquery.scrollTo.min.js"></script>
+<script src="http://www.a7y.xyz/js/masonry.pkgd.min.js"></script>
+<script src="http://www.a7y.xyz/js/imagesloaded.pkgd.min.js"></script>
+<script src="http://www.a7y.xyz/js/owl.carousel.min.js"></script>
+<script src="http://www.a7y.xyz/js/front.js"></script>
+
+
+
+</body>
+</html>

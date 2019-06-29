@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on A7Y.xyz</title>
+    <link>http://www.a7y.xyz/blog/</link>
+    <description>Recent content in Blogs on A7Y.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Jan 2015 14:07:49 -0500</lastBuildDate>
+    
+	<atom:link href="http://www.a7y.xyz/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How using unstable software was a great decision</title>
+      <link>http://www.a7y.xyz/blog/how-using-unstable-software-was-a-great-decision/</link>
+      <pubDate>Fri, 23 Jan 2015 14:07:49 -0500</pubDate>
+      
+      <guid>http://www.a7y.xyz/blog/how-using-unstable-software-was-a-great-decision/</guid>
+      <description>I use Laravel. It is an extremely popular PHP framework, and it has the definite right to be. Laravel is simply a pleasure to work with.
+About 4 months ago I started planning a new project. I had to make the important decision of whether or not to use the unstable, not-even-beta Laravel 5, or the tried and true Laravel 4. I ended up choosing 5 for a couple of reasons.</description>
+    </item>
+    
+    <item>
+      <title>I bought a microcomputer. Here&#39;s what I do with it</title>
+      <link>http://www.a7y.xyz/blog/i-bought-a-microcomputer-heres-what-i-do-with-it/</link>
+      <pubDate>Fri, 16 Jan 2015 14:19:45 -0500</pubDate>
+      
+      <guid>http://www.a7y.xyz/blog/i-bought-a-microcomputer-heres-what-i-do-with-it/</guid>
+      <description>If you&amp;rsquo;re reading this blog, you&amp;rsquo;re surely familiar with the RaspberryPi, a ~$30 microcomputer. Only, I didn&amp;rsquo;t buy the RaspberryPi, I bought the ODROID-C1 by HardKernel for $35.
+The C1 has 4 cores, generously provided by the Amlogic S805 SoC with ARMv7 architecture, and 1GB of DDR3 RAM. As opposed to the RaspberryPi B+, which is also $35, having only 1 core on ARMv6 architecture and 512MB of DDR2 RAM.</description>
+    </item>
+    
+    <item>
+      <title>You should adhere to ISO 8601</title>
+      <link>http://www.a7y.xyz/blog/you-should-adhere-to-iso8601/</link>
+      <pubDate>Fri, 09 Jan 2015 14:27:32 -0500</pubDate>
+      
+      <guid>http://www.a7y.xyz/blog/you-should-adhere-to-iso8601/</guid>
+      <description>If you aren&amp;rsquo;t already sold on this date format, let me elaborate.
+The International Organization for Standardization, or ISO, is a committee that sets forth standards intended for 163 countries. You undoubtedly use something everyday that adheres to some specification provided by the organization.
+For example: film speed is defined by ISO 6, 2240, and 5800. And the file extension .ISO (used for disk images) pays homage to ISO 9660. Country (&amp;ldquo;us&amp;rdquo;, &amp;ldquo;uk&amp;rdquo;) and language codes (&amp;ldquo;en&amp;rdquo;, &amp;ldquo;es&amp;rdquo;) stem from ISO 3166 and 639 respectively.</description>
+    </item>
+    
+  </channel>
+</rss>

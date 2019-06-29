@@ -1,0 +1,28 @@
+body {
+    background-color: #111;
+}
+
+.sidebar-heading a {
+    color: #fff;
+}
+
+.box-masonry {
+    box-shadow: 0 0 5px #4a4a4a;
+}
+
+.box-masonry .box-masonry-image {
+    background-color: #fff;
+}
+
+.img-responsive {
+    padding: 5px;
+}
+
+.sidebar-heading {
+    text-transform: none;
+}
+
+.content-column-content p,
+.content-column-content li {
+    color: #454545;
+}

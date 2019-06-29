@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.a7y.xyz/</loc>
+    <lastmod>2015-01-23T14:07:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/blog/</loc>
+    <lastmod>2015-01-23T14:07:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/blog/how-using-unstable-software-was-a-great-decision/</loc>
+    <lastmod>2015-01-23T14:07:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/blog/i-bought-a-microcomputer-heres-what-i-do-with-it/</loc>
+    <lastmod>2015-01-16T14:19:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/blog/you-should-adhere-to-iso8601/</loc>
+    <lastmod>2015-01-09T14:27:32-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/portfolio/api-logo/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/portfolio/api-about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/portfolio/api-endpoints/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/portfolio/api-landing/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/portfolio/api-landing2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/portfolio/api-pricing/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/portfolio/cerculus-logo/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/portfolio/cerculus-compass/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/portfolio/cerculus-icons/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/portfolio/cerculus-landing/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/portfolio/cerculus-sso/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/portfolio/community-about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/portfolio/community-account/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/portfolio/community-login/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/portfolio/community-support/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/portfolio/company-logo/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/portfolio/messaging-landing/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/portfolio/namegolem-logo/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/portfolio/namegolem-landing/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/portfolio/namegolem-search/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/portfolio/okdevelops-logo/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/portfolio/okdevelops-landing/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/portfolio/pingility-logo/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/portfolio/pingility-landing/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/portfolio/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/portfolio/pulsefeed-logo/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/portfolio/pulsefeed-article/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/portfolio/pulsefeed-login/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/portfolio/pulsefeed-news/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/portfolio/svnout-logo/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/portfolio/svnout-landing/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.a7y.xyz/portfolio/waldenwolfe-logo/</loc>
+  </url>
+  
+</urlset>
